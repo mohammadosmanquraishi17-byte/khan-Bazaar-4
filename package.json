@@ -1,0 +1,23 @@
+{
+  "name": "khan-bazaar",
+  "version": "1.0.0",
+  "description": "Khan Bazaar - Afghan Multi-vendor Marketplace with Vercel Speed Insights",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mohammadosmanquraishi17-byte/khan-Bazaar-4.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mohammadosmanquraishi17-byte/khan-Bazaar-4/issues"
+  },
+  "homepage": "https://github.com/mohammadosmanquraishi17-byte/khan-Bazaar-4#readme",
+  "dependencies": {
+    "@vercel/speed-insights": "^2.0.0"
+  }
+}
